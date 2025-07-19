@@ -11,6 +11,7 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app)
 
+#똥
 # test
 # 모델과 스케일러를 저장할 전역 변수
 model = None
