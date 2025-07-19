@@ -1,7 +1,7 @@
 # 배터리 품질 예측 백엔드 서버
-# test
+# test gg
 ## 설치 및 실행 방법
-
+## gg
 ### 1. Python 환경 설정
 ```bash
 # Python 3.8 이상 필요
